@@ -43,7 +43,8 @@ java App
 ```
 ##  Captura de Pantalla
 
-(Inserta aquí una imagen del gráfico o salida del benchmarking si tienes)
+![image](https://github.com/user-attachments/assets/8910ca73-55e8-4efe-97e0-3dc6f2f30040)
+
 
 📁 Estructura del Proyecto
 ```plaintext
